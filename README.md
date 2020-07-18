@@ -13,22 +13,22 @@ After accepting the re-forging and reshaping of first-line Internet companies, p
 
 #### Know/Using
 
-| [<img width="32" alt="android" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img width="32" alt="java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />](https://www.java.com/)  | [<img width="32" alt="android" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />](https://www.android.com/)  |  [<img width="32" alt="c++" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />](http://www.open-std.org/jtc1/sc22/wg14/) |  [<img width="32" alt="python" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />](https://www.python.org/) | [<img width="32" alt="gnu bash" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />](https://www.gnu.org/software/bash/)  |
+| [<img width="32" title="android" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img width="32" title="java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />](https://www.java.com/)  | [<img width="32" title="android" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />](https://www.android.com/)  |  [<img width="32" title="c++" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />](http://www.open-std.org/jtc1/sc22/wg14/) |  [<img width="32" title="python" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />](https://www.python.org/) | [<img width="32" title="gnu bash" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />](https://www.gnu.org/software/bash/)  |
 |---|---|---|---|---|---|
 
 #### Learning
 
-| [<img width="32" alt="typescript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />](https://www.typescriptlang.org/) |  [<img width="32" alt="rust" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rust.svg" />](https://www.rust-lang.org/)|
+| [<img width="32" title="typescript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />](https://www.typescriptlang.org/) |  [<img width="32" title="rust" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rust.svg" />](https://www.rust-lang.org/)|
 |---|---|
 
 ### 🛠️ Tools 
 
 #### Know/Using
 
-| [<img width="32" alt="git" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />](https://git-scm.com/) | [<img width="32" alt="git" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />](https://code.visualstudio.com/) | [<img width="32" alt="git" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg" />](https://developer.android.com/studio) | [<img width="32" alt="travis-ci" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/travisci.svg" />](https://travis-ci.org/)  | [<img width="32" alt="vue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />](https://vuejs.org/) 
+| [<img width="32" title="git" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />](https://git-scm.com/) | [<img width="32" title="git" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />](https://code.visualstudio.com/) | [<img width="32" title="git" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg" />](https://developer.android.com/studio) | [<img width="32" title="travis-ci" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/travisci.svg" />](https://travis-ci.org/)  | [<img width="32" title="vue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />](https://vuejs.org/) 
 |---|---|---|---|---|
 
 #### Learning
 
-[<img width="32" alt="serverless" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/serverless.svg" />](https://serverless.com/)| [<img width="32" alt="flutter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />](https://flutter.dev/)
+[<img width="32" title="serverless" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/serverless.svg" />](https://serverless.com/)| [<img width="32" title="flutter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />](https://flutter.dev/)
 |---|---|
