@@ -13,22 +13,22 @@ After accepting the re-forging and reshaping of first-line Internet companies, p
 
 #### Know/Using
 
-| [<img width="56" alt="android" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img width="56" alt="java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />](https://www.java.com/)  | [<img width="56" alt="android" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />](https://www.android.com/)  |  [<img width="56" alt="c++" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />](http://www.open-std.org/jtc1/sc22/wg14/) |  [<img width="56" alt="python" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />](https://www.python.org/) | [<img width="56" alt="gnu bash" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />](https://www.gnu.org/software/bash/)  |
+| [<img width="32" alt="android" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img width="32" alt="java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />](https://www.java.com/)  | [<img width="32" alt="android" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />](https://www.android.com/)  |  [<img width="32" alt="c++" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />](http://www.open-std.org/jtc1/sc22/wg14/) |  [<img width="32" alt="python" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />](https://www.python.org/) | [<img width="32" alt="gnu bash" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />](https://www.gnu.org/software/bash/)  |
 |---|---|---|---|---|---|
 
 #### Learning
 
-| [<img width="56" alt="typescript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />](https://www.typescriptlang.org/) |  [<img width="56" alt="rust" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rust.svg" />](https://www.rust-lang.org/)|
+| [<img width="32" alt="typescript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />](https://www.typescriptlang.org/) |  [<img width="32" alt="rust" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rust.svg" />](https://www.rust-lang.org/)|
 |---|---|
 
 ### 🛠️ Tools 
 
 #### Know/Using
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png" alt="actions logo" width="24">](https://github.com/features/actions) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="aseprite logo" width="24">](https://www.aseprite.org/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gimp.png" alt="gimp logo" width="24">](https://www.gimp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/travis_ci.png" alt="travis ci logo" width="24">](https://travis-ci.org/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gnu_make.png" alt="gnu make logo" width="24">](https://www.gnu.org/software/make/manual/make.html)
-|---|---|---|---|---|---|---|
+| [<img width="32" alt="git" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />](https://git-scm.com/) | [<img width="32" alt="git" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />](https://code.visualstudio.com/) | [<img width="32" alt="git" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg" />](https://developer.android.com/studio) | [<img width="32" alt="travis-ci" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/travisci.svg" />](https://travis-ci.org/)  | [<img width="32" alt="vue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />](https://vuejs.org/) 
+|---|---|---|---|---|
 
 #### Learning
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="24">](https://kubernetes.io/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="codecov logo" width="24">](https://codecov.io/)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/)
-|---|---|---|---|
+[<img width="32" alt="serverless" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/serverless.svg" />](https://serverless.com/)| [<img width="32" alt="flutter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />](https://flutter.dev/)
+|---|---|
