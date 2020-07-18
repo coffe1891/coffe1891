@@ -1,4 +1,4 @@
-### // Hi there 👋
+### 👋 Hi there
 
 I am Bob Ma from Beijing, China.I am a big-front-end engineer.I love coding using with JavaScript/ECMAScript,Java and so on.
 
@@ -9,7 +9,7 @@ Since I published my first Internet technology book in 2010, there is no time to
 After accepting the re-forging and reshaping of first-line Internet companies, programming is like playing a game, which makes me feel happy and fulfilled. Every day I can "clear", solve one problem after another, and work together with outstanding, smart, wise and enthusiastic colleagues to create one after another vivid and interesting products, and the sense of accomplishment is full... and most importantly , I can make a lot of money in this process, so that I can live decently as a programmer and do what I like, which is really wonderful!
 
 
-### // Programming Languages 🌐
+### 🌐 Programming Languages 
 
 #### Know/Using
 
@@ -18,10 +18,10 @@ After accepting the re-forging and reshaping of first-line Internet companies, p
 
 #### Learning
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/)|
+| [<img width="56" alt="typescript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />](https://www.typescriptlang.org/) |  [<img width="56" alt="rust" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rust.svg" />](https://www.rust-lang.org/)|
 |---|---|
 
-### // Tools 🛠️
+### 🛠️ Tools 
 
 #### Know/Using
 
