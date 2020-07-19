@@ -4,9 +4,9 @@ I am Bob Ma from Beijing, China.I am a big-front-end engineer.I love coding usin
 
 As an old programmer, coding has become a part of life, coding to be 80 years old is my ideal, and JavaScript is my beloved language!
 
-Since I published my first Internet technology book in 2010, there is no time to write a systematic discussion of technology. Because I later joined Qihoo 360 and Baidu, two first-tier Internet companies, engaged in front-end and mobile client technical work, and presided over the development of mobile apps for billions of users. During this period, it was quite busy.
+Since I published my first Internet technology book in 2010, there is no time to write a systematic discussion of technology. Because I later joined Qihoo 360 and Baidu, two first-tier Internet companies, engaged in front-end and mobile client technical work, and presided over the development of mobile apps for 150 million of users. During this period, it was quite busy.
 
-After accepting the re-forging and reshaping of first-line Internet companies, programming is like playing a game, which makes me feel happy and fulfilled. Every day I can "clear", solve one problem after another, and work together with outstanding, smart, wise and enthusiastic colleagues to create one after another vivid and interesting products, and the sense of accomplishment is full... and most importantly , I can make a lot of money in this process, so that I can live decently as a programmer and do what I like, which is really wonderful!
+After accepting the re-forging and reshaping of first-line Internet companies, programming is like playing a game, which makes me feel happy and fulfilled. Every day I can "clear", solve one problem after another, and work together with outstanding, smart, wise and enthusiastic colleagues to create one after another vivid and interesting products, and the sense of accomplishment is full... and most importantly , I can make a lot of money in this process, so that I can live decently as a programmer and do what I like, these are really wonderful!
 
 
 ### 🌐 Programming Languages 
